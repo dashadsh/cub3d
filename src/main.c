@@ -6,7 +6,7 @@
 /*   By: dgoremyk <dgoremyk@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/28 15:31:03 by dgoremyk          #+#    #+#             */
-/*   Updated: 2023/10/02 10:14:23 by dgoremyk         ###   ########.fr       */
+/*   Updated: 2023/12/17 01:21:37 by dgoremyk         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,7 @@
 // #define ERR_MLX "Mlx: Startup error"
 // #define ERR_MLX_WIN "Mlx: Window error"
 
-int	main(int ac, char **av)
-{
+int	main(int ac, char **av) {
 	t_data	data;
 
 	if (ac != 2)
